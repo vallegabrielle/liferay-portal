@@ -58,6 +58,13 @@
 	<td>//button[(@class='dropdown-toggle btn btn-monospaced btn-unstyled')]</td>
 	<td></td>
 </tr>
+
+<tr>
+	<td>NESTED_FIELD_GROUP_DELETE</td>
+	<td>//button[text()='Delete']</td>
+	<td></td>
+</tr>
+
 </tbody>
 </table>
 </body>
